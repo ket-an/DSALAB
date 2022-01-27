@@ -1,2 +1,2 @@
 # DSALAB
-Contains code replated to some data structure's concept
+Contains code related to some data structure's concept
